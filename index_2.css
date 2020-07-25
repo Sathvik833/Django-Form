@@ -1,0 +1,36 @@
+.container
+{
+	margin:0px auto;
+	width:300px;
+	height: 250px;
+	background-color:orange;
+	
+}
+.container .name
+{
+	margin-left: 90px;
+	padding: 15px;
+}
+.container .langauge
+{
+	margin-left: 90px;
+	padding: 15px;
+}
+.container .location
+{
+	margin-left: 90px;
+	padding: 15px;
+}
+.container .comments
+{
+	margin-left: 90px;
+	padding: 15px;
+}
+.container .backgroun
+{
+	margin-top:70px;
+}
+.container .button
+{
+	margin-left: 125px;
+}

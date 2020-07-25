@@ -1,0 +1,39 @@
+.container
+{
+	margin: 0px auto;
+	width:500px;
+	background-color:orange;
+}
+.container .form
+{
+	padding: 50px;
+}
+.container .form .one
+{
+	margin-left: 80px;
+	display: inline-block;
+	padding: 15px;
+}
+.container .form .two
+{
+	margin-left: 80px;
+	padding:15px;
+}
+.container .form .three
+{
+	margin-left: 80px;
+	padding: 15px;
+}
+.container .form .button
+{
+	margin-left: 170px;
+}
+textarea
+{
+	resize: none;
+	margin-left: 120px;
+}
+p
+{
+	margin-left: 127px;
+}
